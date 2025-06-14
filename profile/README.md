@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/srctool"><img src="https://raw.githubusercontent.com/srctool/.github/refs/heads/main/banner.svg" alt="SRC Tool logo" width="200"></a>
+  <a href="https://github.com/srctool"><img src="https://raw.githubusercontent.com/srctool/.github/refs/heads/main/banner.svg" alt="SRC Tool logo"></a>
 </div>
 
 # SRC Tool
