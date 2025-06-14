@@ -2,8 +2,6 @@
   <a href="https://github.com/srctool"><img src="https://raw.githubusercontent.com/srctool/.github/refs/heads/main/banner.svg" alt="SRC Tool logo"></a>
 </div>
 
-# SRC Tool
-
 ## Want to know more about us?
 
 Check out [SRC Tool Repositories](https://github.com/orgs/srctool/repositories)  — your go-to collection of lightweight, high-performance libraries for developers. 🚀
