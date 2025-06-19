@@ -12,4 +12,4 @@ Join our [Discord Comunity](https://discord.gg/2cs7Hn9Uht)
 
 Join our Discord community [bacot.io](https://discord.gg/2cs7Hn9Uht) to connect with other users, get help, and stay updated on the latest developments:
 
-[![Discord](https://img.shields.io/discord/862219675102085141?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht)
+[![Discord Server](https://img.shields.io/badge/Join%20Our%20Discord-Community-blue?logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht)
