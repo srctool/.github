@@ -6,7 +6,7 @@
 
 Check out [SRC Tool Repositories](https://github.com/orgs/srctool/repositories)  — your go-to collection of lightweight, high-performance libraries for developers. 🚀
 
-## 🌐 Join Our Community
+## Join Our Community
 
 Join our Discord community [bacot.io](https://discord.gg/2cs7Hn9Uht) to connect with other users, get help, and stay updated on the latest developments:
 
